@@ -1,0 +1,11 @@
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\bin\Debug\proyectoBancoWindowsForms.exe.config
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\bin\Debug\proyectoBancoWindowsForms.exe
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\bin\Debug\proyectoBancoWindowsForms.pdb
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.Form1.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.FormOperaciones.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.Properties.Resources.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.csproj.GenerateResource.cache
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.exe
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.pdb

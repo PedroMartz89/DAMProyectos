@@ -1,0 +1,22 @@
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\bin\Debug\repaso1Ev.exe.config
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\bin\Debug\repaso1Ev.exe
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\bin\Debug\repaso1Ev.pdb
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.csproj.AssemblyReference.cache
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.Form1.resources
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.Properties.Resources.resources
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.csproj.GenerateResource.cache
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.csproj.CoreCompileInputs.cache
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.exe
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.pdb
+C:\Users\pedri\Desktop\dam2\Desarrollo de Interfaces\estudio\repaso1Ev\repaso1Ev\obj\Debug\repaso1Ev.FormOperaciones.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\bin\Debug\repaso1Ev.exe.config
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\bin\Debug\repaso1Ev.exe
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\bin\Debug\repaso1Ev.pdb
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\repaso1Ev.csproj.AssemblyReference.cache
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.Form1.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\proyectoBancoWindowsForms.FormOperaciones.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\repaso1Ev.Properties.Resources.resources
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\repaso1Ev.csproj.GenerateResource.cache
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\repaso1Ev.csproj.CoreCompileInputs.cache
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\repaso1Ev.exe
+C:\Users\pedri\Desktop\proyectos\proyectoBancoWindowsForms\repaso1Ev\obj\Debug\repaso1Ev.pdb
