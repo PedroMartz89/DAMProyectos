@@ -77,6 +77,6 @@ Repositorio en constante actualización conforme se desarrollan nuevos proyectos
 ---
 
 ## Autor
-
+Pedro Martínez Sánchez
 Repositorio de proyectos del ciclo formativo  
 **Desarrollo de Aplicaciones Multiplataforma (DAM)**
