@@ -56,18 +56,6 @@ Cada proyecto se organiza en su propia carpeta e incluye el código fuente neces
 
 ## Estructura del repositorio
 
-La estructura general del repositorio es la siguiente:
-
-```
-DAMProyectos
-│
-├── AplicacionesEscritorio/
-├── Repasos/
-├── Practicas/
-├── ProyectosEvaluables/
-└── README.md
-```
-
 Cada carpeta contiene proyectos independientes.
 
 ---
